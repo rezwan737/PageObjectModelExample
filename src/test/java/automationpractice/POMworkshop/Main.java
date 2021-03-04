@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 public class Main {
 	
-	public WebDriver driver;
+	public WebDriver driver; //check me
 
 	Homepage hp;
 	ProductPage pp;
